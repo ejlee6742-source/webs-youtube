@@ -1,12 +1,12 @@
 import React from 'react'
 import Main from '../components/section/Main'
 
-const Youtube = () => {
+const Vidio = () => {
   return (
     <Main>
-      you
+      Vi
     </Main>
   )
 }
 
-export default Youtube
+export default Vidio

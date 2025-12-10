@@ -1,11 +1,10 @@
 import React from 'react'
-import Main from '../components/section/Main'
 
 const Gsap = () => {
   return (
-    <Main title="은지 유튜브222">
+    <div>
       Gsap
-    </Main>
+    </div>
   )
 }
 
